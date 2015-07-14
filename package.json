@@ -1,6 +1,6 @@
 {
   "name": "central-event",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Global event bus using a singleton event emitter",
   "main": "index.js",
   "scripts": {
