@@ -1,0 +1,30 @@
+{
+  "name": "central-event",
+  "version": "1.0.0",
+  "description": "Global event bus using a singleton event emitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aymen-mouelhi/central-event"
+  },
+  "keywords": [
+    "event",
+    "global",
+    "singleton",
+    "emitter",
+    "central"
+  ],
+  "author": "Aymen Mouelhi <aymen.mouelhi@gmail.com> (https://github.com/aymen-mouelhi)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aymen-mouelhi/central-event/issues"
+  },
+  "homepage": "https://github.com/aymen-mouelhi/central-event",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  }
+}
